@@ -1,0 +1,37 @@
+.flex{
+    display: flex;
+}
+.flex-row{
+    flex-direction:row;
+}
+.flex-column{
+    flex-direction: column;
+}
+.justify-center{
+    justify-content: center;
+}
+.align-center{
+    align-items: center;
+}
+.gap20{
+    gap: 20px;
+}
+.padding20{
+    padding: 20px;
+}
+.gap8{
+    gap: 8px;
+}
+.gap18{
+    gap: 18px;
+}
+.gap0{
+    gap: 0px;
+}
+.justify-between{
+    justify-content: space-between;
+}
+
+.overflowYScroll{
+    overflow-y: scroll;
+}
